@@ -1,0 +1,43 @@
+.career{
+    margin: 0px;
+    margin-left: 10%;
+    margin-right: auto;
+
+}
+.life{
+    text-align: right;
+    margin: 0px;
+    margin-left: auto;
+    margin-right: 10%;
+    clear: right;
+    
+}
+div #career{
+    display: inline-block;
+    max-width: 40%;
+    margin-left: 10%;
+    margin-right: auto;
+}
+div #life{
+    display: inline-block;
+    text-align: right;
+    max-width: 40%;
+    margin-left: auto;
+    margin-right: 10%;
+    vertical-align: top;
+}
+.container-career{
+    max-height: 400px;
+    max-width: 40%;
+    margin: 0px;
+    float: right;
+    margin-right: 10%;
+    margin-left: auto;
+}
+.container-life{
+    max-height: 400px;
+    max-width: 40%;
+    margin: 0px;
+    margin-left: 10%;
+    margin-right: auto;
+}
